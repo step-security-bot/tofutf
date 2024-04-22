@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.10.0](https://github.com/step-security-bot/tofutf/compare/v0.9.1...v0.10.0) (2024-04-22)
+
+
+### Features
+
+* Add cmd/helm support for SkipTLSVerification flag ([#142](https://github.com/step-security-bot/tofutf/issues/142)) ([9feb4bd](https://github.com/step-security-bot/tofutf/commit/9feb4bd3cbecd47f39d0454bc43739f58404c5bc))
+* added otel tracing for sql and agents api ([#139](https://github.com/step-security-bot/tofutf/issues/139)) ([ffc125e](https://github.com/step-security-bot/tofutf/commit/ffc125e93fb2e71166e3e745d772a61cbad02079))
+* migrated to pgxv5 pggen fork ([#110](https://github.com/step-security-bot/tofutf/issues/110)) ([ab576aa](https://github.com/step-security-bot/tofutf/commit/ab576aa68934be9c19fe1c8ccf26e87cbc08fad9))
+
 ## [0.9.1](https://github.com/tofutf/tofutf/compare/v0.9.0...v0.9.1) (2024-04-04)
 
 
