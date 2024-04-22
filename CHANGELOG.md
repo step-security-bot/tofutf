@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/step-security-bot/tofutf/compare/v0.9.1...v0.10.0) (2024-04-19)
+
+
+### Features
+
+* migrated to pgxv5 pggen fork ([#110](https://github.com/step-security-bot/tofutf/issues/110)) ([ab576aa](https://github.com/step-security-bot/tofutf/commit/ab576aa68934be9c19fe1c8ccf26e87cbc08fad9))
+
 ## [0.9.1](https://github.com/tofutf/tofutf/compare/v0.9.0...v0.9.1) (2024-04-04)
 
 
